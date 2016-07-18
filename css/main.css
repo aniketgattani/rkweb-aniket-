@@ -2654,3 +2654,13 @@ li{
 {
 	transform:scale(1.1);
 }
+
+.standings:hover{
+text-decoration: underline;
+cursor: pointer;
+}
+
+.standingsModal{
+	text-align: center;
+}
+
