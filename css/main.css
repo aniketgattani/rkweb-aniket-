@@ -2664,3 +2664,8 @@ cursor: pointer;
 	text-align: center;
 }
 
+.modal-content{
+	width:120%;
+	margin-left: -15%;
+	text-align: center;
+}
