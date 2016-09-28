@@ -2663,7 +2663,13 @@ cursor: pointer;
 }
 
 .modal-content{
-	width:120%;
-	margin-left: -15%;
+	width:150%;
+	margin-left: -26%;
 	text-align: center;
+	color: #6e6e6e;
+	background-color: black;
+
+}
+.modal-content h1{
+	
 }
